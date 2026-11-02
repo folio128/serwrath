@@ -1,9 +1,9 @@
 {
-  "tungtung": {
+  "owner": {
     "username": "folio128",
     "email": "shorio2032@hightechhigh.org"
   },
   "record": {
-    "CNAME": "YOUR-GITHUB-USERNAME.github.io"
+    "CNAME": "folio128.github.io"
   }
 }
